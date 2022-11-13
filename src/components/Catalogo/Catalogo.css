@@ -1,0 +1,23 @@
+.title{
+    font-size: x-large;
+    max-width: 100%;
+    padding: 2%;
+    text-align: center ;
+
+}
+
+.imagen {
+    width: 100%;
+}
+.catalogo{
+	 margin: 2px; 
+    max-width: 100%;
+    flex-wrap: wrap;
+    padding-right: 5%;
+
+}
+
+.conteiner {
+    display: flex;
+    
+}
